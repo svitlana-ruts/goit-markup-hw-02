@@ -92,6 +92,10 @@ ol {
   background-color: #f4f4fd;
 }
 
+.section-item {
+  background-color: #fff;
+}
+
 .section-subtitle {
   font-weight: 700;
   font-size: 36px;
