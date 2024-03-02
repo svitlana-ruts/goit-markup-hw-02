@@ -75,6 +75,8 @@ ol {
   font-weight: 500;
   font-size: 16px;
   color: #fff;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   background-color: #4d5ae5;
   cursor: pointer;
 }
@@ -86,16 +88,24 @@ ol {
 
 /**=============sec=========**/
 
-h2 {
+.team {
+  background-color: #f4f4fd;
+}
+.team-list {
+  background-color: #fff;
+}
+
+.section-subtitle {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
-h3 {
+.section-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -103,7 +113,7 @@ h3 {
   color: #2e2f42;
 }
 
-p {
+.section-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -115,9 +125,10 @@ p {
   background-color: #2e2f42;
 }
 .footer-logo {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.2;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -125,7 +136,7 @@ p {
 .footer-logo-part {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.2;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
