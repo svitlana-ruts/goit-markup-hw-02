@@ -35,8 +35,8 @@ ol {
   color: #2e2f42;
 }
 
-.nav-link :hover,
-.nav-link :focus {
+.nav-link:hover,
+.nav-link:focus {
   color: #404bbf;
 }
 
@@ -48,10 +48,11 @@ ol {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.address-link :hover,
-.address-link :focus {
+.address-link:hover,
+.address-link:focus {
   color: #404bbf;
 }
 
@@ -71,11 +72,11 @@ ol {
 }
 
 .header-btn {
-font-weight: 500;
-font-size: 16px;
-color: #fff;
-background-color: #4d5ae5;
-cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  color: #fff;
+  background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .header-btn:hover,
@@ -95,18 +96,18 @@ h2 {
 }
 
 h3 {
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 p {
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /**======footer===========**/
@@ -114,24 +115,24 @@ color: #434455;
   background-color: #2e2f42;
 }
 .footer-logo {
-font-weight: 700;
-font-size: 18px;
-line-height: 1.2;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 .footer-logo-part {
-font-weight: 700;
-font-size: 18px;
-line-height: 1.2;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #f4f4fd;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
 }
 .footer-text {
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #f4f4fd;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
