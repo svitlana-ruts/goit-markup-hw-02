@@ -105,7 +105,6 @@ ol {
 }
 
 .optoin-item-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -143,7 +142,6 @@ ol {
 }
 
 .team-item-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -180,7 +178,7 @@ ol {
 }
 
 .portfolio-text {
-  font-weight: 400;
+  
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -211,7 +209,6 @@ color: #f4f4fd;
 }
 
 .footer-text {
-font-weight: 400;
 font-size: 16px;
 line-height: 1.5
 letter-spacing: 0.02em;
